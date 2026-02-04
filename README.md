@@ -5,17 +5,23 @@
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kaioLimaX&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioLimaX&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
 </div>
 
-## Últimos aplicativos criados:
+## 🚀 Últimos aplicativos criados
 
-- [App MobNews ->](https://github.com/kaioLimaX/MobNews)App com requisições de api, Retrofit, Utilizaçao de tokens, entre outros
-- [App MarketCalc ->](https://github.com/kaioLimaX/MarketCalc) O app Basicamente faz o calculo enquanto vc está utilizando o mercado
-- [FakeStore APP ->](https://github.com/kaioLimaX/FakeStoreAPI) App com requisições API representando uma loja de roupas  
+- 🔐 **[SecureVault](https://github.com/kaioLimaX/SecureVault)**  
+  App Android focado em **segurança de dados em repouso**, utilizando **Android Keystore (AES/GCM)**.  
+  Demonstra criptografia correta, armazenamento apenas de ciphertext + IV e separação clara por camadas.
+
+- 📰 **[MobNews](https://github.com/kaioLimaX/MobNews)**  
+  App com consumo de APIs REST utilizando **Retrofit**, tratamento de tokens e arquitetura organizada para chamadas remotas.
+
+- 🧮 **[MarketCalc](https://github.com/kaioLimaX/MarketCalc)**  
+  Aplicativo para **cálculo de preços durante compras no mercado**, focado em usabilidade simples e prática.
+
+- 🛍️ **[FakeStore App](https://github.com/kaioLimaX/FakeStoreAPI)**  
+  App Android que consome uma API simulando uma **loja virtual**, com listagem de produtos e integração remota.
+
   
 <br/>
 
