@@ -1,59 +1,86 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4278e3&height=120&section=header"/>
 
-# Olá! Seja Bem Vindo ao meu Perfil !  ✋🙂
-"Apaixonado por tecnologia, programação e Musica"
+# Hi! Welcome to my GitHub  
+**Android Engineer focused on Clean Architecture, scalable architecture, and secure mobile solutions.**  
+I build Android apps with strong fundamentals: MVVM, modularization, testing mindset, and practical problem-solving.
 
-<div align="center">  
-  
-</div>
+---
 
-## 🚀 Últimos aplicativos criados
+##  Featured Projects
 
 - 🔐 **[SecureVault](https://github.com/kaioLimaX/SecureVault)**  
-  App Android focado em **segurança de dados em repouso**, utilizando **Android Keystore (AES/GCM)**.  
-  Demonstra criptografia correta, armazenamento apenas de ciphertext + IV e separação clara por camadas.
+  Android app focused on **data security at rest**, using **Android Keystore (AES/GCM)**.  
+  Demonstrates correct encryption practices, storing only **ciphertext + IV**, with clear layer separation.
 
 - 📰 **[MobNews](https://github.com/kaioLimaX/MobNews)**  
-  App com consumo de APIs REST utilizando **Retrofit**, tratamento de tokens e arquitetura organizada para chamadas remotas.
+  REST API consumption with **Retrofit**, token handling, and organized architecture for remote calls.
 
 - 🧮 **[MarketCalc](https://github.com/kaioLimaX/MarketCalc)**  
-  Aplicativo para **cálculo de preços durante compras no mercado**, focado em usabilidade simples e prática.
+  A simple app for **price calculations during grocery shopping**, focused on usability and speed.
 
 - 🛍️ **[FakeStore App](https://github.com/kaioLimaX/FakeStoreAPI)**  
-  App Android que consome uma API simulando uma **loja virtual**, com listagem de produtos e integração remota.
+  Android app consuming a fake **e-commerce API**, featuring product listing and remote integration.
 
-  
-<br/>
+---
 
-## Tecnologias, linguagens e frameworks
+## 🧠 Tech Stack
 
-<div style = "display : inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-</div>
-
-
-<div style = "display : inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Retrofit-%20-green">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Picasso-%20-orange">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Jetpack%20Compose-%20-red">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Koin-%20-blue">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Groupie-%20-yellow">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Coroutines-%20-green">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/ROOM-%20-orange">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTTPS-%20-red">
-    
-</div>
+### Architecture & Patterns
+<p>
+  <img src="https://img.shields.io/badge/MVVM-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-2EA043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modularization-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coroutines-8250DF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dependency%20Injection-FF6B00?style=for-the-badge" />
+</p>
 
 
-## Contatos e redes sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/caio-limax/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaioLimaX)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com.br/caiooalexandre94@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://wa.me/5535991331230)
+### Tools & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Room-7E57C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Crashlytics-F57C00?style=for-the-badge" />
+</p>
+
+### Security & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Android%20Keystore-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AES%2FGCM-0052CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2EA043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTTPS-0A66C2?style=for-the-badge" />
+</p>
+
+### Workflow & Collaboration
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" />
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Room%20ORM-7E57C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+
+---
+
+## 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-limax/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaioLimaX)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiooalexandre94@gmail.com)
