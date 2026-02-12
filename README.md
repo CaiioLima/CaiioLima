@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4278e3&height=120&section=header"/>
-
 # Hi! Welcome to my GitHub  
 **Android Engineer focused on Clean Architecture, scalable architecture, and secure mobile solutions.**  
 I build Android apps with strong fundamentals: MVVM, modularization, testing mindset, and practical problem-solving.
