@@ -1,64 +1,88 @@
-# Hi! Welcome to my GitHub  
-**Android Engineer focused on Clean Architecture, scalable architecture, and secure mobile solutions.**  
-I build Android apps with strong fundamentals: MVVM, modularization, testing mindset, and practical problem-solving.
+# Android Engineer focused on scalable architecture, security and real-world financial systems
+
+📫 Open to opportunities | [LinkedIn](https://linkedin.com/in/caio-limax)
+
+Android Engineer with experience in **financial applications in production (wallet & exchange)**, working with:
+- Transactional flows and real-time data updates
+- High-volume data handling and performance optimization
+- Secure mobile development and API integration
+- Offline-first scenarios and reliability in unstable networks
+
+- Reduced network traffic by ~91% through caching strategies and request optimization
+
+---
 
 ## ⭐ Main Projects (Architecture & System Design)
 
 ### 📊 [PluggableAnalytics](https://github.com/CaiioLima/PluggableAnalytics)
 
-A pluggable analytics system for Android designed to avoid SDK coupling.  
-The application communicates only with an abstraction layer, allowing providers like Firebase or custom analytics to be swapped without modifying the application code.  
-Demonstrates **dependency inversion, modularization and scalable architecture for large apps**.
+A pluggable analytics system for Android designed to eliminate direct dependency on third-party SDKs.
+
+The application communicates through an abstraction layer, allowing analytics providers (e.g. Firebase or custom solutions) to be swapped without impacting the core application.
+
+Demonstrates **dependency inversion, modularization and long-term maintainability in large-scale applications**.
 
 ---
 
 ### 🌐 [WebAuthBridge](https://github.com/CaiioLima/WebAuthBridge)
 
-Secure communication bridge between **WebView and native Android code**.  
-Designed for authentication and token exchange flows while preventing unsafe JavaScript exposure.  
-Focused on **security boundaries, hybrid apps integration and reliability in login flows**.
+Secure communication bridge between **WebView and native Android code**, designed for authentication and token exchange flows.
+
+Prevents unsafe JavaScript exposure and enforces clear security boundaries between web and native layers, improving reliability in hybrid applications.
 
 ---
 
 ### 🔐 [SecureVault](https://github.com/kaioLimaX/SecureVault)
 
-Android application focused on **data security at rest** using Android Keystore (AES/GCM).  
-Stores only encrypted data (ciphertext + IV) and keeps encryption keys protected inside the system hardware-backed storage.  
-Demonstrates proper handling of sensitive information in mobile environments.
+Android application focused on **secure data storage at rest** using Android Keystore (AES/GCM).
+
+Stores only encrypted data (ciphertext + IV), keeping encryption keys protected inside hardware-backed storage.
+
+Demonstrates correct handling of sensitive data and secure storage patterns in mobile environments.
 
 ---
 
-### 👥 [Boostcamp Project](https://github.com/CaiioLima/Projeto_Boostcamp)
+## 🤝 Team Experience
 
-Team-based Android project developed collaboratively.  
-I acted as **technical lead**, defining architecture patterns, organizing tasks, reviewing implementations and guiding development standards across the team.
+### 👥 [Boostcamp Playground (2026)](https://github.com/CaiioLima/Projeto_Boostcamp)
+
+Team-based Android project built during **BoostCamp (Codans 2026)** as part of a collaborative development challenge.
+
+Acted as **Technical Lead**, responsible for:
+- Defining architectural guidelines (MVVM + layered structure)
+- Standardizing UI states (Loading / Success / Error)
+- Supporting team members during implementation
+- Reviewing PRs to maintain consistency across the codebase
+
+The project consumes the **DummyJSON API**, covering flows for:
+- Products
+- Users
+- Posts
+- Carts
+
+Focuses on **team collaboration, code consistency and structured feature development**.
 
 ---
 
-## 📱 Application Projects
+## 🧩 Supporting Projects
 
 ### ₿ [Cripto App](https://github.com/CaiioLima/cripto_app)
 
-Cryptocurrency tracking application consuming remote APIs and updating UI based on asynchronous data changes.  
-Focus on **network handling, UI state management and reactive flows**.
+Cryptocurrency tracking application consuming remote APIs.
+
+Handles asynchronous data updates using reactive flows, applying clear UI state management (Loading / Success / Error) and consistent rendering across screens.
 
 ---
 
 ### 📰 [MobNews](https://github.com/CaiioLima/MobNews)
 
-REST API consumption using Retrofit, token handling and layered architecture for remote communication.
+Demonstrates structured API consumption using Retrofit, with separation of concerns across data and presentation layers.
 
 ---
 
 ### 🛍️ [FakeStore App](https://github.com/CaiioLima/FakeStoreAPI)
 
-E-commerce style Android app demonstrating remote product listing and API integration.
-
----
-
-### 🧮 [MarketCalc](https://github.com/CaiioLima/MarketCalc)
-
-Utility app for real-time price comparison during shopping, focused on speed and usability.
+Simple e-commerce style application demonstrating API integration, list rendering and basic state handling in Android.
 
 ---
 
@@ -75,51 +99,43 @@ Utility app for real-time price comparison during shopping, focused on speed and
   <img src="https://img.shields.io/badge/MVVM-1F6FEB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-2EA043?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Modularization-8B5CF6?style=for-the-badge" />
+</p>
+
+### Async & State Management
+<p>
   <img src="https://img.shields.io/badge/Coroutines-8250DF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dependency%20Injection-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flow-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LiveData-FF6F00?style=for-the-badge" />
 </p>
 
-
-### Tools & Frameworks
+### Networking & Data
 <p>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Room-7E57C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Crashlytics-F57C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Room-6DB33F?style=for-the-badge" />
 </p>
 
-### Security & Networking
-
+### Dependency Injection & Navigation
 <p>
-  <img src="https://img.shields.io/badge/Android%20Keystore-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AES%2FGCM-0052CC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20APIs-2EA043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HTTPS-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Navigation-FF6F00?style=for-the-badge" />
 </p>
 
-### Workflow & Collaboration
-
+### Production & Performance
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Realtime%20Data-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Caching-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance%20Optimization-F97316?style=for-the-badge" />
 </p>
 
-### Databases
+### Observability & Reliability
 <p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room%20ORM-7E57C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crashlytics-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Error%20Handling-E11D48?style=for-the-badge" />
 </p>
 
-
----
-
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-limax/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaioLimaX)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiooalexandre94@gmail.com)
+### Integration & Security
+<p>
+  <img src="https://img.shields.io/badge/SDK%20Integration-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebView%20Bridge-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Encryption-A855F7?style=for-the-badge" />
+</p>
